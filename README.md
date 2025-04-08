@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Marcelo Tomporoski Perez @marcelo.t.pere
+- 👋 Hi, I’m Marcelo Tomporoski Perez @marcelo.t.perez
 - 👀 I’m interested in Programação, Análise de Sistemas, Resenha com amigos
 - 🌱 I’m currently learning NEXT, React
